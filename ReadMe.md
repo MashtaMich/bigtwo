@@ -1,6 +1,7 @@
 ## Directory diagram
 
-BigTwoFinal
+BigTwoFinal - Teo Fu Qiang, Jaden Toh, Michael Suteja, Lee Bing Ren, Shiv Iyer, Malcolm Lim
+
   +- assets\
   |  +- images\  // contains file of card images
   |  +- sound\  // contains file of sound for GUI
