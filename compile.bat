@@ -1,0 +1,1 @@
+javac -d classes -cp "src;assets" src/Big2/App.java

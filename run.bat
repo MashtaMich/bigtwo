@@ -1,0 +1,1 @@
+java -cp "classes;assets/*" Big2.App
